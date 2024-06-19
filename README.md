@@ -1,1 +1,1 @@
-# Front-end project which incorporated HTML, CSS
+# Front-end clone of Amazon
